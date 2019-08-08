@@ -1,0 +1,10 @@
+E:\WANGU\INTRODUCTION\Number5\bin\Debug\Number5.exe.config
+E:\WANGU\INTRODUCTION\Number5\bin\Debug\Number5.exe
+E:\WANGU\INTRODUCTION\Number5\bin\Debug\Number5.pdb
+E:\WANGU\INTRODUCTION\Number5\obj\Debug\Number5.csprojAssemblyReference.cache
+E:\WANGU\INTRODUCTION\Number5\obj\Debug\Number5.Form1.resources
+E:\WANGU\INTRODUCTION\Number5\obj\Debug\Number5.Properties.Resources.resources
+E:\WANGU\INTRODUCTION\Number5\obj\Debug\Number5.csproj.GenerateResource.cache
+E:\WANGU\INTRODUCTION\Number5\obj\Debug\Number5.csproj.CoreCompileInputs.cache
+E:\WANGU\INTRODUCTION\Number5\obj\Debug\Number5.exe
+E:\WANGU\INTRODUCTION\Number5\obj\Debug\Number5.pdb
